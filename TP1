@@ -7,6 +7,8 @@
 
 //TP1: Pretende-se neste trabalho simular um sistema de atuação variável de uma válvula de admissão de um motor.
 
+//Link para Youtube – https://www.youtube.com/shorts/2yR0Biyvl_E
+
 #include "Arduino.h"
 #include <stdio.h>
 #include <ESP32Servo.h>
